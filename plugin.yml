@@ -1,0 +1,27 @@
+name: KitPvNelson
+author: Rodrigo Kartage
+website: www.maxmovies.com.br
+main: me.Rodrigo.Main
+version: 1.0
+commands:
+ spawn:
+ kit:
+ tag:
+ tp:
+ bc:
+ aviso:
+ broadcast:
+ settp:
+ mob:
+ admin:
+ clan:
+ ban:
+ unban:
+ tempban:
+ warp:
+ setwarp:
+ rdm:
+ 1v1:
+ sc:
+ mdr:
+ report:
